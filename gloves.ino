@@ -19,7 +19,7 @@ void setup() {
 
 
 
-  sendBluetoothNotification("HC-05 Connected ✅");
+  sendBluetoothNotification("HC-05 Connected");
 }
 
 void loop() {
